@@ -1,7 +1,8 @@
 # Laboratorio — Barridos y comparación de modelos
 
-Notebook de exploración donde probé distintas combinaciones de parámetros
-antes de llegar al pipeline final. Esta fue mi parte del TFM: integrar la
+Este es mi cuaderno de pruebas, donde fui anotando y probando cosas antes
+de llegar al pipeline final. No es código limpio ni definitivo, es el proceso
+real de cómo llegué a las decisiones que están en el repo principal. Esta fue mi parte del TFM: integrar la
 estrategia base de Félix con el gestor de riesgo de Marisa, entrenar el
 modelo ML y optimizar los parámetros.
 
